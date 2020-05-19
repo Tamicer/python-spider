@@ -2,13 +2,10 @@
 
 * 贵有恒，何必三更起五更睡；最无益，只怕一日曝十日寒。
 * Python3爬虫实战：实战源码+博客讲解
-* [个人网站](http://cuijiahua.com "个人网站")
-* [CSDN博客](http://blog.csdn.net/c406495762 "CSDN博客")
-* [CSDN爬虫专栏](https://blog.csdn.net/c406495762/article/category/9268672 "爬虫专栏")<br>
-* 学习交流群【328127489】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e70f3fcff3761450fda9b43eadc1910dac308a962ef9e3e87941cd2c681c4bb4"><img border="0" src="https://github.com/Jack-Cherish/Pictures/blob/master/qqgroup.png" alt="Coder" title="Coder"></a><br>
-* 公众号：[JackCui-AI](https://mp.weixin.qq.com/s/OCWwRVDFNslIuKyiCVUoTA "JackCui-AI")<br>
+* [CSDN爬虫专栏]( "爬虫专栏")<br>
+* 公众号：[开发者技术前线]()<br>
 * 分享技术，乐享生活：Jack Cui公众号推送“程序员欢乐送”系列资讯类文章，以及技术类文章，欢迎您的关注！
-<div align="center"><img border="0" src="https://ww2.sinaimg.cn/large/0072Lfvtly1fxuhd2t2jqj309k09kglk.jpg" alt="Coder" title="gongzhonghao" with="200" height="200"></div>
+<div align="center"><img border="0" src="" alt="Coder" title="gongzhonghao" with="200" height="200"></div>
 
 ## 声明
 
@@ -18,28 +15,7 @@
 
 * 文章在自己的个人网站首发，其他平台文章均属转发，如想获得最新更新进展，欢迎关注我的个人网站：http://cuijiahua.com/
 
-## 目录
 
-* [爬虫小工具](#爬虫小工具)
-    * [文件下载小助手](https://github.com/Jack-Cherish/python-spider/blob/master/downloader.py "悬停显示")
-* [爬虫实战](#爬虫实战)
-    * [笔趣看小说下载](https://github.com/Jack-Cherish/python-spider/blob/master/biqukan.py "悬停显示")
-    * [百度文库免费文章下载助手_rev1](https://github.com/Jack-Cherish/python-spider/blob/master/baiduwenku.py "悬停显示")
-    * [百度文库免费文章下载助手_rev2](https://github.com/Jack-Cherish/python-spider/blob/master/baiduwenku_pro_1.py "悬停显示")
-    * [《帅啊》网帅哥图片下载](https://github.com/Jack-Cherish/python-spider/blob/master/shuaia.py "悬停显示")
-    * [构建代理IP池](https://github.com/Jack-Cherish/python-spider/blob/master/daili.py "悬停显示")
-    * [《火影忍者》漫画下载](https://github.com/Jack-Cherish/python-spider/tree/master/cartoon "悬停显示")
-    * [财务报表下载小助手](https://github.com/Jack-Cherish/python-spider/blob/master/financical.py "悬停显示")
-    * [一小时入门网络爬虫](https://github.com/Jack-Cherish/python-spider/tree/master/one_hour_spider "悬停显示")
-    * [抖音App视频下载](https://github.com/Jack-Cherish/python-spider/tree/master/douyin "悬停显示")
-    * [GEETEST验证码识别](https://github.com/Jack-Cherish/python-spider/blob/master/geetest.py "悬停显示")
-    * [12306抢票小助手](https://github.com/Jack-Cherish/python-spider/blob/master/12306.py "悬停显示")
-    * [百万英雄答题辅助系统](https://github.com/Jack-Cherish/python-spider/tree/master/baiwan "悬停显示")   
-    * [网易云音乐免费音乐批量下载](https://github.com/Jack-Cherish/python-spider/tree/master/Netease "悬停显示")
-    * [B站免费视频和弹幕批量下载](https://github.com/Jack-Cherish/python-spider/tree/master/bilibili "悬停显示")
-    * [京东商品晒单图下载](https://github.com/Jack-Cherish/python-spider/tree/master/dingdong "悬停显示")
-    * [正方教务管理系统个人信息查询](https://github.com/Jack-Cherish/python-spider/tree/master/zhengfang_system_spider "悬停显示")
-* [其它](#其它)
 
 ## 爬虫小工具
 
@@ -112,8 +88,7 @@
 
 	原理说明:
 	
-	 * 知乎：https://zhuanlan.zhihu.com/p/29809609
-	 * CSDN：http://blog.csdn.net/c406495762/article/details/78123502
+	 * 知乎：https://www.zhihu.com/people/xing-qiu-ren-50
 	
 	本次实战内容有：
 	
